@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I'll send the message back later.
 - 📫 How to reach me: @deitrafilia on Instagram.
 - ⚡ Fun fact: I really do enjoy eating fries!
--->
