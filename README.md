@@ -1,10 +1,9 @@
-# Halo semua! 
+# Hi everyone! :smiley: 
 
-Perkenalkan nama saya **Deitra Afilia Shafira**.  
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).  
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).  
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+My name is **Deitra Afilia Shafira**, call me Deitra for short.
+I am a final year Brawijaya University student pursuing in Statistics Bachelor's, envisioning to be a top-tier data scientist which is aligned with my machine learning and deep learning skills. It's proven by the TensorFlow Developer Certificate I've acquired on July 29, 2022.
+I love dealing with the compound of a wide range of data and IT involvements, and hence I am currently looking for an internship role related to the world of data as a place for my potential growth.
+If you're interested to get knowing me more, let's connect with me on [LinkedIn](https://www.linkedin.com/in/deitrashafira/)! :smile_cat:
 
 <p align="left">
 <a href="https://github.com/deitrashafira">
